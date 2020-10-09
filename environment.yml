@@ -2,6 +2,7 @@ name: fermipy
 
 channels:
   - conda-forge
+  - fermi
   - conda-forge/label/cf201901
 
 dependencies:
