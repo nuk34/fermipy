@@ -1,0 +1,8 @@
+name: gammapy-0.17
+
+channels:
+  - conda-forge/label/cf201901
+
+dependencies:
+  - fermitools
+  - fermypy 
