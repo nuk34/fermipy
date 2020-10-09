@@ -5,4 +5,11 @@ channels:
 
 dependencies:
   - fermitools
-  - fermypy 
+  - fermipy
+#  - scipy
+#  - matplotlib
+#  - pyyaml
+#  - numpy
+#  - astropy
+#  - gammapy
+#  - healpy
